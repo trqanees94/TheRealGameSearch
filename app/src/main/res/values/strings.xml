@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheRealGameSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="search_hint">Hint</string>
+    <string name="app_label">Label</string>
+</resources>
